@@ -1,5 +1,5 @@
 # MIT Lincoln Laboratory, Group 66: Advanced Laser Communication Systems and Operations
-# Pointing, Acquisition, and Tracking (PAT)
+## Pointing, Acquisition, and Tracking (PAT)
 
 Author: Spencer Hart<br>
 Program: MIT Lincoln Laboratory - Summer Research Program Internship<br>
